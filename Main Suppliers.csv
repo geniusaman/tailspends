@@ -1,0 +1,163 @@
+,supplier_name,category,subcategory,totalcost
+0,"Adams, Davis and Johnson",Audio Equipment,Sound System,17287.0
+1,"Adams, Davis and Johnson",HVAC Systems,Air Conditioning Unit,18128.0
+2,"Adams, Davis and Johnson",Navigation & Tracking,GPS Tracking Device,21863.0
+3,"Adams, Davis and Johnson",Photography Equipment,Digital Camera,5195.0
+4,"Adams, Davis and Johnson",Power Backup,Generator,8128.0
+5,"Adams, Davis and Johnson",Robotics,Industrial Robot,11308.0
+6,"Adams, Davis and Johnson",Scanning Devices,Barcode Scanner,12092.0
+7,"Adams, Davis and Johnson",Servers & Data Centers,Server,20510.0
+8,Andrews-Ferguson,Computers & Electronics,Desktop Computer,30739.0
+9,Andrews-Ferguson,Computers & Electronics,Printer,19655.0
+10,Andrews-Ferguson,Networking Devices,Switch,16093.0
+11,Andrews-Ferguson,Office Furniture,Conference Table,17310.0
+12,Andrews-Ferguson,Office Furniture,Office Chair,23035.0
+13,Andrews-Ferguson,Presentation Equipment,Projector,23281.0
+14,Brown and Sons,Audio Equipment,Sound System,25304.0
+15,Brown and Sons,HVAC Systems,Air Conditioning Unit,12842.0
+16,Brown and Sons,Navigation & Tracking,GPS Tracking Device,20890.0
+17,Brown and Sons,Photography Equipment,Digital Camera,3632.0
+18,Brown and Sons,Power Backup,Generator,15968.0
+19,Brown and Sons,Robotics,Industrial Robot,20503.0
+20,Brown and Sons,Scanning Devices,Barcode Scanner,17381.0
+21,Brown and Sons,Servers & Data Centers,Server,31071.0
+22,Clark-Roberts,Audio Equipment,Sound System,21161.0
+23,Clark-Roberts,HVAC Systems,Air Conditioning Unit,12709.0
+24,Clark-Roberts,Navigation & Tracking,GPS Tracking Device,9446.0
+25,Clark-Roberts,Photography Equipment,Digital Camera,1767.0
+26,Clark-Roberts,Power Backup,Generator,32173.0
+27,Clark-Roberts,Robotics,Industrial Robot,24459.0
+28,Clark-Roberts,Scanning Devices,Barcode Scanner,4530.0
+29,Clark-Roberts,Servers & Data Centers,Server,7822.0
+30,Evans Ltd,Audio Equipment,Sound System,26915.0
+31,Evans Ltd,HVAC Systems,Air Conditioning Unit,10096.0
+32,Evans Ltd,Navigation & Tracking,GPS Tracking Device,20594.0
+33,Evans Ltd,Photography Equipment,Digital Camera,10822.0
+34,Evans Ltd,Power Backup,Generator,17576.0
+35,Evans Ltd,Robotics,Industrial Robot,14778.0
+36,Evans Ltd,Scanning Devices,Barcode Scanner,5247.0
+37,Evans Ltd,Servers & Data Centers,Server,34090.0
+38,"Gonzalez, Turner and Allen",Audio Equipment,Sound System,20962.0
+39,"Gonzalez, Turner and Allen",HVAC Systems,Air Conditioning Unit,15024.0
+40,"Gonzalez, Turner and Allen",Navigation & Tracking,GPS Tracking Device,5180.0
+41,"Gonzalez, Turner and Allen",Photography Equipment,Digital Camera,9399.0
+42,"Gonzalez, Turner and Allen",Power Backup,Generator,17444.0
+43,"Gonzalez, Turner and Allen",Robotics,Industrial Robot,18183.0
+44,"Gonzalez, Turner and Allen",Scanning Devices,Barcode Scanner,11922.0
+45,"Gonzalez, Turner and Allen",Servers & Data Centers,Server,12452.0
+46,Green-Robinson,Audio Equipment,Sound System,23156.0
+47,Green-Robinson,HVAC Systems,Air Conditioning Unit,25751.0
+48,Green-Robinson,Navigation & Tracking,GPS Tracking Device,11278.0
+49,Green-Robinson,Photography Equipment,Digital Camera,7551.0
+50,Green-Robinson,Power Backup,Generator,13738.0
+51,Green-Robinson,Robotics,Industrial Robot,5183.0
+52,Green-Robinson,Scanning Devices,Barcode Scanner,13850.0
+53,Green-Robinson,Servers & Data Centers,Server,13552.0
+54,Gregory Ltd,Computers & Electronics,Desktop Computer,19523.0
+55,Gregory Ltd,Computers & Electronics,Printer,13545.0
+56,Gregory Ltd,Networking Devices,Switch,30297.0
+57,Gregory Ltd,Office Furniture,Conference Table,19978.0
+58,Gregory Ltd,Office Furniture,Office Chair,12003.0
+59,Gregory Ltd,Presentation Equipment,Projector,14947.0
+60,Higgins-Rivera,Computers & Electronics,Desktop Computer,15162.0
+61,Higgins-Rivera,Computers & Electronics,Printer,28925.0
+62,Higgins-Rivera,Networking Devices,Switch,27136.0
+63,Higgins-Rivera,Office Furniture,Conference Table,14949.0
+64,Higgins-Rivera,Office Furniture,Office Chair,30837.0
+65,Higgins-Rivera,Presentation Equipment,Projector,6901.0
+66,Hughes-Baker,Audio Equipment,Sound System,5200.0
+67,Hughes-Baker,HVAC Systems,Air Conditioning Unit,26345.0
+68,Hughes-Baker,Navigation & Tracking,GPS Tracking Device,15032.0
+69,Hughes-Baker,Photography Equipment,Digital Camera,23952.0
+70,Hughes-Baker,Power Backup,Generator,16483.0
+71,Hughes-Baker,Robotics,Industrial Robot,14577.0
+72,Hughes-Baker,Scanning Devices,Barcode Scanner,19535.0
+73,Hughes-Baker,Servers & Data Centers,Server,14237.0
+74,Johnson and Sons,Computers & Electronics,Desktop Computer,21395.0
+75,Johnson and Sons,Computers & Electronics,Printer,20753.0
+76,Johnson and Sons,Networking Devices,Switch,6830.0
+77,Johnson and Sons,Office Furniture,Conference Table,28643.0
+78,Johnson and Sons,Office Furniture,Office Chair,27338.0
+79,Johnson and Sons,Presentation Equipment,Projector,22333.0
+80,Klein-Morse,Computers & Electronics,Desktop Computer,10574.0
+81,Klein-Morse,Computers & Electronics,Printer,20827.0
+82,Klein-Morse,Networking Devices,Switch,9280.0
+83,Klein-Morse,Office Furniture,Conference Table,12955.0
+84,Klein-Morse,Office Furniture,Office Chair,20523.0
+85,Klein-Morse,Presentation Equipment,Projector,23764.0
+86,Lewis-Williams,Audio Equipment,Sound System,21968.0
+87,Lewis-Williams,HVAC Systems,Air Conditioning Unit,11357.0
+88,Lewis-Williams,Navigation & Tracking,GPS Tracking Device,14109.0
+89,Lewis-Williams,Photography Equipment,Digital Camera,13970.0
+90,Lewis-Williams,Power Backup,Generator,14104.0
+91,Lewis-Williams,Robotics,Industrial Robot,19787.0
+92,Lewis-Williams,Scanning Devices,Barcode Scanner,8393.0
+93,Lewis-Williams,Servers & Data Centers,Server,20001.0
+94,Martin-White,Audio Equipment,Sound System,20954.0
+95,Martin-White,HVAC Systems,Air Conditioning Unit,14209.0
+96,Martin-White,Navigation & Tracking,GPS Tracking Device,14241.0
+97,Martin-White,Photography Equipment,Digital Camera,10962.0
+98,Martin-White,Power Backup,Generator,37082.0
+99,Martin-White,Robotics,Industrial Robot,20621.0
+100,Martin-White,Scanning Devices,Barcode Scanner,25165.0
+101,Martin-White,Servers & Data Centers,Server,12338.0
+102,"Martinez, Gordon and Allen",Computers & Electronics,Desktop Computer,25567.0
+103,"Martinez, Gordon and Allen",Computers & Electronics,Printer,18651.0
+104,"Martinez, Gordon and Allen",Networking Devices,Switch,14526.0
+105,"Martinez, Gordon and Allen",Office Furniture,Conference Table,23261.0
+106,"Martinez, Gordon and Allen",Office Furniture,Office Chair,9418.0
+107,"Martinez, Gordon and Allen",Presentation Equipment,Projector,16451.0
+108,"Parker, Clark and Peterson",Audio Equipment,Sound System,21101.0
+109,"Parker, Clark and Peterson",HVAC Systems,Air Conditioning Unit,13064.0
+110,"Parker, Clark and Peterson",Navigation & Tracking,GPS Tracking Device,8676.0
+111,"Parker, Clark and Peterson",Photography Equipment,Digital Camera,12863.0
+112,"Parker, Clark and Peterson",Power Backup,Generator,15612.0
+113,"Parker, Clark and Peterson",Robotics,Industrial Robot,11669.0
+114,"Parker, Clark and Peterson",Scanning Devices,Barcode Scanner,6063.0
+115,"Parker, Clark and Peterson",Servers & Data Centers,Server,18378.0
+116,Roberts-Ferguson,Audio Equipment,Sound System,32161.0
+117,Roberts-Ferguson,HVAC Systems,Air Conditioning Unit,20802.0
+118,Roberts-Ferguson,Navigation & Tracking,GPS Tracking Device,4314.0
+119,Roberts-Ferguson,Photography Equipment,Digital Camera,11789.0
+120,Roberts-Ferguson,Power Backup,Generator,14646.0
+121,Roberts-Ferguson,Robotics,Industrial Robot,13860.0
+122,Roberts-Ferguson,Scanning Devices,Barcode Scanner,7027.0
+123,Roberts-Ferguson,Servers & Data Centers,Server,5883.0
+124,Scott-Morse,Audio Equipment,Sound System,12227.0
+125,Scott-Morse,HVAC Systems,Air Conditioning Unit,14626.0
+126,Scott-Morse,Navigation & Tracking,GPS Tracking Device,6047.0
+127,Scott-Morse,Photography Equipment,Digital Camera,13472.0
+128,Scott-Morse,Power Backup,Generator,12977.0
+129,Scott-Morse,Robotics,Industrial Robot,12313.0
+130,Scott-Morse,Scanning Devices,Barcode Scanner,17187.0
+131,Scott-Morse,Servers & Data Centers,Server,14132.0
+132,"Stone, Roberts and Peterson",Computers & Electronics,Desktop Computer,30270.0
+133,"Stone, Roberts and Peterson",Computers & Electronics,Printer,24424.0
+134,"Stone, Roberts and Peterson",Networking Devices,Switch,18779.0
+135,"Stone, Roberts and Peterson",Office Furniture,Conference Table,14227.0
+136,"Stone, Roberts and Peterson",Office Furniture,Office Chair,7411.0
+137,"Stone, Roberts and Peterson",Presentation Equipment,Projector,12452.0
+138,Thompson-Lopez,Computers & Electronics,Desktop Computer,12154.0
+139,Thompson-Lopez,Computers & Electronics,Printer,17778.0
+140,Thompson-Lopez,Networking Devices,Switch,28717.0
+141,Thompson-Lopez,Office Furniture,Conference Table,15165.0
+142,Thompson-Lopez,Office Furniture,Office Chair,18815.0
+143,Thompson-Lopez,Presentation Equipment,Projector,14084.0
+144,Walters-Baldwin,Computers & Electronics,Desktop Computer,22614.0
+145,Walters-Baldwin,Computers & Electronics,Printer,28951.0
+146,Walters-Baldwin,Networking Devices,Switch,13772.0
+147,Walters-Baldwin,Office Furniture,Conference Table,14647.0
+148,Walters-Baldwin,Office Furniture,Office Chair,10719.0
+149,Walters-Baldwin,Presentation Equipment,Projector,14681.0
+150,Walters-Roberts,Computers & Electronics,Desktop Computer,7796.0
+151,Walters-Roberts,Computers & Electronics,Printer,23613.0
+152,Walters-Roberts,Networking Devices,Switch,21634.0
+153,Walters-Roberts,Office Furniture,Conference Table,20957.0
+154,Walters-Roberts,Office Furniture,Office Chair,12015.0
+155,Walters-Roberts,Presentation Equipment,Projector,29438.0
+156,Watkins and Sons,Computers & Electronics,Desktop Computer,24619.0
+157,Watkins and Sons,Computers & Electronics,Printer,18445.0
+158,Watkins and Sons,Networking Devices,Switch,19800.0
+159,Watkins and Sons,Office Furniture,Conference Table,24580.0
+160,Watkins and Sons,Office Furniture,Office Chair,36916.0
+161,Watkins and Sons,Presentation Equipment,Projector,16930.0

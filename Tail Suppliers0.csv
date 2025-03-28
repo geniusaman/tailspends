@@ -1,0 +1,63 @@
+,supplier_name,category,subcategory,totalcost
+0,"Adams, Martinez and Olson",Computers & Electronics,Desktop Computer,11780.0
+1,"Adams, Martinez and Olson",Computers & Electronics,Printer,11869.0
+2,"Adams, Martinez and Olson",Networking Devices,Switch,15877.0
+3,"Adams, Martinez and Olson",Office Furniture,Conference Table,15944.0
+4,"Adams, Martinez and Olson",Office Furniture,Office Chair,8318.0
+5,"Adams, Martinez and Olson",Presentation Equipment,Projector,18429.0
+6,"Anderson, Schultz and Cook",Computers & Electronics,Desktop Computer,12876.0
+7,"Anderson, Schultz and Cook",Computers & Electronics,Printer,15530.0
+8,"Anderson, Schultz and Cook",Networking Devices,Switch,11156.0
+9,"Anderson, Schultz and Cook",Office Furniture,Conference Table,15990.0
+10,"Anderson, Schultz and Cook",Office Furniture,Office Chair,17124.0
+11,"Anderson, Schultz and Cook",Presentation Equipment,Projector,15959.0
+12,"Campbell, Murphy and Olson",Audio Equipment,Sound System,7535.0
+13,"Campbell, Murphy and Olson",HVAC Systems,Air Conditioning Unit,18276.0
+14,"Campbell, Murphy and Olson",Navigation & Tracking,GPS Tracking Device,15396.0
+15,"Campbell, Murphy and Olson",Photography Equipment,Digital Camera,3168.0
+16,"Campbell, Murphy and Olson",Power Backup,Generator,17075.0
+17,"Campbell, Murphy and Olson",Robotics,Industrial Robot,8792.0
+18,"Campbell, Murphy and Olson",Scanning Devices,Barcode Scanner,3618.0
+19,"Campbell, Murphy and Olson",Servers & Data Centers,Server,5900.0
+20,Gonzalez Inc,Audio Equipment,Sound System,13380.0
+21,Gonzalez Inc,HVAC Systems,Air Conditioning Unit,13080.0
+22,Gonzalez Inc,Navigation & Tracking,GPS Tracking Device,23797.0
+23,Gonzalez Inc,Photography Equipment,Digital Camera,10468.0
+24,Gonzalez Inc,Power Backup,Generator,3492.0
+25,Gonzalez Inc,Robotics,Industrial Robot,7207.0
+26,Gonzalez Inc,Scanning Devices,Barcode Scanner,8422.0
+27,Gonzalez Inc,Servers & Data Centers,Server,8900.0
+28,Hill-Lopez,Audio Equipment,Sound System,7771.0
+29,Hill-Lopez,HVAC Systems,Air Conditioning Unit,11571.0
+30,Hill-Lopez,Navigation & Tracking,GPS Tracking Device,9047.0
+31,Hill-Lopez,Photography Equipment,Digital Camera,14343.0
+32,Hill-Lopez,Power Backup,Generator,12527.0
+33,Hill-Lopez,Robotics,Industrial Robot,11780.0
+34,Hill-Lopez,Scanning Devices,Barcode Scanner,12281.0
+35,Hill-Lopez,Servers & Data Centers,Server,2950.0
+36,Martinez Inc,Computers & Electronics,Desktop Computer,9074.0
+37,Martinez Inc,Computers & Electronics,Printer,10733.0
+38,Martinez Inc,Networking Devices,Switch,17401.0
+39,Martinez Inc,Office Furniture,Conference Table,16936.0
+40,Martinez Inc,Office Furniture,Office Chair,21661.0
+41,Martinez Inc,Presentation Equipment,Projector,16305.0
+42,Moore-Williams,Computers & Electronics,Desktop Computer,5960.0
+43,Moore-Williams,Computers & Electronics,Printer,13278.0
+44,Moore-Williams,Networking Devices,Switch,25884.0
+45,Moore-Williams,Office Furniture,Conference Table,21581.0
+46,Moore-Williams,Office Furniture,Office Chair,18123.0
+47,Moore-Williams,Presentation Equipment,Projector,12379.0
+48,Sanders-Callahan,Computers & Electronics,Desktop Computer,7485.0
+49,Sanders-Callahan,Computers & Electronics,Printer,24272.0
+50,Sanders-Callahan,Networking Devices,Switch,22030.0
+51,Sanders-Callahan,Office Furniture,Conference Table,10296.0
+52,Sanders-Callahan,Office Furniture,Office Chair,15639.0
+53,Sanders-Callahan,Presentation Equipment,Projector,8487.0
+54,"Taylor, Smith and Co",Audio Equipment,Sound System,9479.0
+55,"Taylor, Smith and Co",HVAC Systems,Air Conditioning Unit,14135.0
+56,"Taylor, Smith and Co",Navigation & Tracking,GPS Tracking Device,14804.0
+57,"Taylor, Smith and Co",Photography Equipment,Digital Camera,16614.0
+58,"Taylor, Smith and Co",Power Backup,Generator,6650.0
+59,"Taylor, Smith and Co",Robotics,Industrial Robot,9285.0
+60,"Taylor, Smith and Co",Scanning Devices,Barcode Scanner,7744.0
+61,"Taylor, Smith and Co",Servers & Data Centers,Server,11738.0
